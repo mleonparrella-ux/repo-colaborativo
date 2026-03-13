@@ -1,5 +1,5 @@
 # repo-colaborativo
 
-Manuel León, Ramón Otero, Agustina Igarreta, Mia Blaquier
+Manuel Leon, Ramon Otero, Agustina Igarreta, Mia Blaquier
 
-Repositorio colaborativo.
+Repositorio colaborativo: este repositorio cuenta con dos archivos, un programa principal y un programa con las funciones. 
